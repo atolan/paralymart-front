@@ -240,7 +240,6 @@ class AddNewWork extends Component {
     });
   }
 
-
   handleGoback = (event) =>{
     const {confirm} = this.state;
     if(confirm)
